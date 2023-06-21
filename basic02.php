@@ -38,4 +38,18 @@ $test4= 5;
 $test4=$test4-1;        # decrease the value by one
 echo "$test4";
 
+
+
+// Output:
+// This is a string and Sum of A and B = 80
+
+// Example@gmail.com
+
+// Example@gmail.com
+// 1
+// 9
+// 6
+// 4
+ 
+ 
  ?>
