@@ -1,18 +1,18 @@
 <?php
 
-echo "Welcome to PHP."."<br>";
+echo "Welcome to PHP."."<br>"; # echo in php
 
  ?>
 
-<?="This is my First php code"."<br>"?>
+<?="This is my First php code"."<br>" # short form to echo in php ?>  
 
 <?php
-echo "What's on your mind ?"."<br>";
+echo "What's on your mind ?"."<br>"; # echo without first bracket
 
-echo ("\n What's on your mind ?"."<br>");
+echo (" What's on your mind ?"."<br>"); #echo with first bracket
 
-echo "This"," is"," my"," First "," php "," code <br>";
+echo "This"," is"," my"," First "," php "," code <br>"; # echo multiple string without first bracket
 
-echo ("This"),(" is"),(" my"),(" First "),(" php "),(" code");
+echo ("This"),(" is"),(" my"),(" First "),(" php "),(" code"); # echo multiple string with first bracket
 
 ?>
