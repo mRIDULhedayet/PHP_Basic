@@ -1,4 +1,4 @@
-<form action="basic09-form.php" method="post">
+<form action="basic10-form.php" method="post">
 Name: <input name="fname" /><br>
 Age: <input name="age" /><br>
 <input type="submit" />
@@ -16,7 +16,7 @@ You are 10 years old. */
 echo "<br>";
  ?>
 
- <form action="basic09-form.php" method="get">
+ <form action="basic10-form.php" method="get">
  My Name: <input name="myname" /><br>
  My Age: <input name="myage" /><br>
  <input type="submit" />
